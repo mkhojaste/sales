@@ -1,4 +1,4 @@
-﻿namespace Sales
+﻿namespace Sales.Composites
 {
     public class SalesGroup : SalesUnit
     {

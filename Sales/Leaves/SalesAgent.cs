@@ -1,4 +1,4 @@
-﻿namespace Sales
+﻿namespace Sales.Leaves
 {
     public class SalesAgent: SalesUnit
     {
