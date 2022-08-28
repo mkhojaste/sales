@@ -1,0 +1,12 @@
+E:\DesignPatternInDomainModelDesign\Section4\Project\Session04\Session04\04\Sales\obj\Debug\net6.0\Sales.GeneratedMSBuildEditorConfig.editorconfig
+E:\DesignPatternInDomainModelDesign\Section4\Project\Session04\Session04\04\Sales\obj\Debug\net6.0\Sales.AssemblyInfoInputs.cache
+E:\DesignPatternInDomainModelDesign\Section4\Project\Session04\Session04\04\Sales\obj\Debug\net6.0\Sales.AssemblyInfo.cs
+E:\DesignPatternInDomainModelDesign\Section4\Project\Session04\Session04\04\Sales\obj\Debug\net6.0\Sales.csproj.CoreCompileInputs.cache
+E:\DesignPatternInDomainModelDesign\Section4\Project\Session04\Session04\04\Sales\bin\Debug\net6.0\Sales.deps.json
+E:\DesignPatternInDomainModelDesign\Section4\Project\Session04\Session04\04\Sales\bin\Debug\net6.0\Sales.dll
+E:\DesignPatternInDomainModelDesign\Section4\Project\Session04\Session04\04\Sales\bin\Debug\net6.0\ref\Sales.dll
+E:\DesignPatternInDomainModelDesign\Section4\Project\Session04\Session04\04\Sales\bin\Debug\net6.0\Sales.pdb
+E:\DesignPatternInDomainModelDesign\Section4\Project\Session04\Session04\04\Sales\obj\Debug\net6.0\Sales.dll
+E:\DesignPatternInDomainModelDesign\Section4\Project\Session04\Session04\04\Sales\obj\Debug\net6.0\ref\Sales.dll
+E:\DesignPatternInDomainModelDesign\Section4\Project\Session04\Session04\04\Sales\obj\Debug\net6.0\Sales.pdb
+E:\DesignPatternInDomainModelDesign\Section4\Project\Session04\Session04\04\Sales\obj\Debug\net6.0\Sales.csproj.AssemblyReference.cache
